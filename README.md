@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Vy 👋
+# Hi, My name is Khánh Vy, you can call me Vy 😁
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Student;Aspiring+Software+Developer;Learning+Cloud+Computing;Exploring+Web+Development;Rebuilding+My+Coding+Skills)](https://git.io/typing-svg)
 
