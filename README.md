@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Vy 👋
+# Hi, I'm Khánh Vy 😁
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Learning+Through+Real+Projects;Rebuilding+My+Programming+Fundamentals;Exploring+Cloud+Computing;Growing+One+Step+at+a+Time)](https://git.io/typing-svg)
 
@@ -13,24 +13,25 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm Vy, an Information Technology student interested in software development, databases, and cloud computing.
+Hi, I'm Vy! I'm an Information Technology student interested in software development and cloud computing.
 
-Throughout my studies and personal projects, I've explored different programming languages, frameworks, and development tools. I'm currently revisiting programming fundamentals and improving my understanding of the code behind the projects I build.
+Throughout my studies and projects, I've explored various programming languages, frameworks, databases, and development tools. I've also used AI-assisted tools to help me build projects, understand code, and troubleshoot issues.
+
+I'm currently revisiting programming fundamentals and working toward becoming more confident in writing, understanding, and debugging code independently.
 
 - 🎓 Information Technology student at Saigon University.
-- 💻 Interested in software development and problem-solving.
-- ☁️ Exploring backend development, containerization, and cloud technologies.
-- 🤖 Using AI-assisted tools to support learning, development, and debugging.
-- 🌱 Currently strengthening my programming fundamentals through practice.
-- 🎯 Working toward becoming a more independent and confident developer.
+- 💻 Exploring software development and problem-solving.
+- ☁️ Interested in backend development and cloud computing.
+- 🤖 Using AI as a learning and development assistant.
+- 🌱 Strengthening my fundamentals through practice and hands-on projects.
 
-> "Learn by building, improve by understanding."
+*Learning from every project and improving one step at a time.*
 
 ---
 
 ## 🛠️ Technologies I've Explored
 
-These are technologies I've studied, experimented with, or used in learning projects. My experience varies across technologies, and I'm continuing to strengthen my practical skills.
+These are technologies I've studied, explored, or used in learning projects. My experience varies across technologies, and I'm continuing to strengthen my practical skills.
 
 ### Programming Languages
 
@@ -62,7 +63,7 @@ These are technologies I've studied, experimented with, or used in learning proj
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Other development tools:** Antigravity, AI-assisted coding tools.
+**Other development tools:** Antigravity and AI-assisted coding tools.
 
 ---
 
@@ -70,7 +71,7 @@ These are technologies I've studied, experimented with, or used in learning proj
 
 ### ☁️ Cloud Finance Platform
 
-A finance management application designed around a microservices architecture.
+A finance management platform designed around a microservices architecture.
 
 Areas explored:
 - Frontend and backend integration.
@@ -79,7 +80,7 @@ Areas explored:
 - PostgreSQL database integration.
 - AWS cloud architecture and deployment concepts.
 
-**Technologies:** Python, FastAPI, React, Docker, PostgreSQL, AWS
+**Technologies explored:** Python, FastAPI, React, Docker, PostgreSQL, AWS
 
 ### 📂 AWS Internship Portfolio
 
@@ -91,15 +92,15 @@ Areas explored:
 - Practicing technical writing and project presentation.
 - Publishing a portfolio using GitHub Pages.
 
-**Technologies:** Hugo, Markdown, Git, GitHub Pages
+**Technologies explored:** Hugo, Markdown, Git, GitHub Pages
 
 ### 🍔 Fast Food Delivery
 
-A food delivery project developed as part of my learning journey.
+A food delivery project explored as part of my software development learning journey.
 
 This project provides an opportunity to explore application structure, user-facing features, and web development workflows.
 
-**Technologies:** TypeScript
+**Technology explored:** TypeScript
 
 ---
 
