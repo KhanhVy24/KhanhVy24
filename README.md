@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hi, My name is Khánh Vy, you can call me Vy 😁
+# Hi, I'm Vy 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Student;Aspiring+Software+Developer;Learning+Cloud+Computing;Exploring+Web+Development;Rebuilding+My+Coding+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Learning+Through+Real+Projects;Rebuilding+My+Programming+Fundamentals;Exploring+Cloud+Computing;Growing+One+Step+at+a+Time)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KhanhVy24&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -13,15 +13,24 @@
 
 ## 👩‍💻 About Me
 
+Hi! I'm Vy, an Information Technology student interested in software development, databases, and cloud computing.
+
+Throughout my studies and personal projects, I've explored different programming languages, frameworks, and development tools. I'm currently revisiting programming fundamentals and improving my understanding of the code behind the projects I build.
+
 - 🎓 Information Technology student at Saigon University.
-- 💻 Interested in software development, web technologies, and cloud computing.
-- 🌱 Revisiting programming fundamentals and strengthening my coding skills.
-- 🛠️ Exploring different technologies through hands-on projects.
-- 🎯 Focused on continuous learning and practical experience.
+- 💻 Interested in software development and problem-solving.
+- ☁️ Exploring backend development, containerization, and cloud technologies.
+- 🤖 Using AI-assisted tools to support learning, development, and debugging.
+- 🌱 Currently strengthening my programming fundamentals through practice.
+- 🎯 Working toward becoming a more independent and confident developer.
+
+> "Learn by building, improve by understanding."
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I've Explored
+
+These are technologies I've studied, experimented with, or used in learning projects. My experience varies across technologies, and I'm continuing to strengthen my practical skills.
 
 ### Programming Languages
 
@@ -53,40 +62,52 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Also familiar with: Antigravity.
+**Other development tools:** Antigravity, AI-assisted coding tools.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Learning Journey
 
 ### ☁️ Cloud Finance Platform
 
-A finance management platform designed around a microservices architecture.
+A finance management application designed around a microservices architecture.
 
-- Developing and integrating backend APIs.
-- Exploring containerization with Docker.
-- Working with frontend components and PostgreSQL.
-- Exploring cloud deployment using AWS services.
+Areas explored:
+- Frontend and backend integration.
+- API development and service communication.
+- Containerization with Docker.
+- PostgreSQL database integration.
+- AWS cloud architecture and deployment concepts.
 
-**Tech Stack:** Python, FastAPI, React, Docker, PostgreSQL, AWS
+**Technologies:** Python, FastAPI, React, Docker, PostgreSQL, AWS
 
 ### 📂 AWS Internship Portfolio
 
-A portfolio documenting my cloud learning journey and technical practice.
+A portfolio documenting cloud learning activities, technical workshops, and project development.
 
-- Organizing technical notes and workshop activities.
-- Documenting hands-on cloud exercises.
-- Practicing technical documentation and project presentation.
+Areas explored:
+- Organizing technical notes and learning materials.
+- Documenting cloud exercises and workshop activities.
+- Practicing technical writing and project presentation.
+- Publishing a portfolio using GitHub Pages.
 
-**Tech Stack:** Hugo, Markdown, Git, GitHub Pages
+**Technologies:** Hugo, Markdown, Git, GitHub Pages
+
+### 🍔 Fast Food Delivery
+
+A food delivery project developed as part of my learning journey.
+
+This project provides an opportunity to explore application structure, user-facing features, and web development workflows.
+
+**Technologies:** TypeScript
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhanhVy24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhanhVy24&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhVy24&layout=compact&theme=github_dark&hide_border=true)
 
@@ -96,7 +117,7 @@ A portfolio documenting my cloud learning journey and technical practice.
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -108,6 +129,6 @@ A portfolio documenting my cloud learning journey and technical practice.
 
 <div align="center">
 
-*"Learning, building, and improving — one step at a time."* 🌱
+*Learning, building, debugging, and growing — one step at a time.* 🌱
 
 </div>
